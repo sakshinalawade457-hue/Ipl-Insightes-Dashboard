@@ -71,8 +71,8 @@ git clone [https://github.com/sakshinalawade457-hue/your-repo-name.git](https://
 <img width="635" height="359" alt="Screenshot 2026-08-06 154115" src="https://github.com/user-attachments/assets/637caa55-f44b-446d-9147-048d84283ad9" />
 3.Raw Data :
 [ipl23data.csv](https://github.com/user-attachments/files/30784369/ipl23data.csv)
-
-
+4. Dopwnload Dashbaord
+[Download Dashboard] - (https://github.com/sakshinalawade457-hue/Ipl-Insightes-Dashboard/commit/cdc64124f1b55b8582db030db28a5f8de2998478)
 
 
 
