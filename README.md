@@ -70,6 +70,9 @@ This dashboard employs a dark-mode user interface designed for high contrast, sc
 1. clone this repository to your local machine :
 ```bash
   git clone https://github.com/sakshinalawade457-hue/IPL-2023-Performance-Insights.git
+2.Dashboard Image :
+<img width="635" height="359" alt="Screenshot 2026-08-06 154115" src="https://github.com/user-attachments/assets/8da7e715-c8ac-49fb-9bbf-1d9ff76fd968" />
+
 
 
 
