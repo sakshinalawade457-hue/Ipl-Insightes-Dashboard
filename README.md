@@ -65,15 +65,15 @@ This dashboard employs a dark-mode user interface designed for high contrast, sc
 4. **Dynamic Filter Slicers:** Dual selection panels on the right-hand sidebar for filtering by **Venue Stadium** and **Venue City**.
 
 ---
+1. Clone the Repository :
+git clone [https://github.com/sakshinalawade457-hue/your-repo-name.git](https://github.com/sakshinalawade457-hue/your-repo-name.git)
+2.Dashboar Image :
+<img width="635" height="359" alt="Screenshot 2026-08-06 154115" src="https://github.com/user-attachments/assets/637caa55-f44b-446d-9147-048d84283ad9" />
+3.Raw Data :
+[ipl23data.csv](https://github.com/user-attachments/files/30784369/ipl23data.csv)
 
-## 🚀 Getting Started
-1. clone this repository to your local machine :
-```bash
-  git clone https://github.com/sakshinalawade457-hue/IPL-2023-Performance-Insights.git
-2.Dashboard Image :
-<img width="635" height="359" alt="Screenshot 2026-08-06 154115" src="https://github.com/user-attachments/assets/8da7e715-c8ac-49fb-9bbf-1d9ff76fd968" />
-3.Raw Dataset :
-[ipl23data.csv](https://github.com/user-attachments/files/30783195/ipl23data.csv)
+
+
 
 
 
